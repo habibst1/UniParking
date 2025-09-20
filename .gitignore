@@ -1,0 +1,18 @@
+readme_demo.txt
+context.txt
+__pycache__/
+
+
+Python FastAPI Backend/__pycache__/
+Python FastAPI Backend/detection_1.py
+Python FastAPI Backend/detection_2.py
+Python FastAPI Backend/parking_detection.log
+Python FastAPI Backend/parking_zones_1.json
+Python FastAPI Backend/parking_zones_2.json
+Python FastAPI Backend/parking_zones_xx.json
+Python FastAPI Backend/yolov8m.pt
+Python FastAPI Backend/Parking Videos/
+
+
+# Ignore all __pycache__ directories
+**/__pycache__/
