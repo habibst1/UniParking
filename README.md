@@ -1,7 +1,7 @@
 # 🚗 UniParking
 
 UniParking is an end-to-en solution that helps drivers quickly find available parking spots in real time.  
-The system combines **computer vision**, **real-time communication**, and a **mobile app** to deliver an intuitive parking experience.
+The system combines **computer vision**, **real-time communication**, and a **mobile app** to deliver an intuitive parking experience. 
 
 
 ## 🎥 Demo
